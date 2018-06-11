@@ -1,0 +1,211 @@
+UNIDAD 1
+familia
+1. familia-family-alaxik
+2. padre-father-tat
+3. madre-mother (mom)-nan, chuch
+4. hijo-son-alk'wal
+5. hija-daughter-alk'wal
+6. abuelo-grandfather-tatanol, mam
+7. abuela-grandmother-ati't, noy
+8. nieto-grandchild (granddaughter)-inam
+9. Tio-uncle-ch'utitat, ikan
+10. sobrino-nephew-ikaq'
+
+Colores
+1. colores-colors-ukayib'al jastaq
+2. rojo-red-kaq
+3. azul-blue-xar
+4. verde-green-rax
+5. amarillo-yellow-q'an
+6. anaranjado-orange-kaqkoj
+7. cafe-brown-q'ako'r
+8. blanco-white-saq
+9. negro-black-q'eq
+10. gris-gray-chaj
+
+dias
+1. dias-days-q'ij
+2.domingo-sunday-nab'e q'ij
+3. lunes-monday-ukab'q'ij
+4. martes-tuesday-roxq'ij
+5. miercoles-wednesday-ukajq'ij
+6. jueves-thursday-ro'q'ij
+7. viernes-friday-uwaqq'ij
+8. sabado-saturday-uwuqq'ij
+9. mes-month-ik'
+10. año-year-junab'
+
+Numeros
+//1. numero-number-ajilab'äl
+2. cero-zero-wa'ix
+3. uno-one-jun
+4. dos-two-ka'ib'
+5. tres-three-oxib'
+6. cuatro-four-kajib'
+7. cinco-five-job'
+8. seis-six-waqib'
+9. siete-seven-wuqub'
+10. ocho-eight-waqxaqib'
+11. nueve-nine-b'elejeb'
+
+
+======
+======
+
+
+UNIDAD 2
+Cuerpo
+1. cabeza-head-jolomaj
+2. cabello-hair-wi'aj
+3. ojos-eyes-b'oq'ochaj, b'oq'och
+4. nariz-nose-tza'maj
+5. oido-ear-tab'al
+6. boca-mouth-chi'aj
+7. diente-thooth-ware
+8. lengua-tongue-aq'
+9. mano-hand-q'ab'aj
+10. pie-foot-aqanaj
+
+animales
+1. perro-dog-tz'i'
+2. gato-cat-me's
+3. pato-duck-patux
+4. buho-olw-tukur
+5. mariposa-butterfly-pepe
+6. gallo-rooster-ama'ak
+7. gallina-chicken-ak'
+8. conejo-rabbit-imul
+9. caballo-horse-kej
+10. cerdo-pig-aq
+
+frutas
+1. manzana-apple-mansa'n
+2. durazno-peach-tiko'n
+3. pera-pear-raxtzu
+4. banano-banana-inkane'y, ankane'y
+5. sandia-watermelon-kaqaq'oq
+6. melon-melon-q'anq'oq'
+7. fresa-strawberry-kab'tukan
+8. mango-mango-mank
+9. naranja-orange-alanxax
+10. papaya-papaya-q'anq'oj q'oq'
+
+escuela
+1.escuela-school-tijob'al
+2. direrctor-pricipal-k'amalb'e
+3. maestro-teacher-ajtij
+4. estudiante-student-tijoxel
+5. silla-chair-tem
+6. libro-book-no'j wuj, no'jib'al wuj
+7. cuaderno-notebook-tz'ib'awuj, wuj re tz'ib'anik
+8. crayon-crayon-ajb'äl
+9. lapiz-pencil-che'tz'ib'ab'äl
+10. lapicero-pen-tz'ib'ab'al
+
+
+======
+======
+
+
+UNIDAD 3
+vegetales
+1. zanahoria-carrot-q'anwäch, keqkojxe'e
+2. yuca-yucca-tz'in
+3. papa-potato-saqwach
+4. tomate-tomato-pix
+5. cebolla-onion-sipoyix
+6. maiz-corn-ixim
+7. aguacate-avocado-oj
+8. chile-chile-ik
+9. rabano-radish-kyeqichaq
+10. güisquil-squash-ch'ima, k'ix
+
+Comida
+1. comida-food-rikil
+2. tortilla-tortilla-lej
+3. cafe-coffee-kape
+4. huevo-egg-saqmo'l
+5. carne-meat-ti'ij
+6. cereal-cereal-loq'om wotz'otz'
+7. pan-bread-kaxlanwa
+8. frijol-bean-kinaq'
+9. pescado-fish-al
+10.miel-honey-raxkab'
+
+Ropa
+1. ropa-clothes-atz'iyaq
+2. sombrero-hat-pawi'
+3. chaleco-vest-rijxa'
+4. camisa-shirt-kamxa', xa'aj
+5. blusa-blouse-ixatz'yaqb'äl
+6. pantalon-pants-wexaj, lix, pantlon
+7. falda-skirt-kut uq
+8. calcetin-sock-meri'x
+9. zapato-shoe-xajab'
+10. botas-boots-tuqxajab'
+
+lugares
+1. biblioteca-library-nik'owjib'äl
+2. cementerio-cementery-muqub'al kaminaqib'
+3. farmacia-pharmacy-k'aykunub'äl
+4. ferreteria-hardware store-k'ayb'äl chakub'äl
+5. iglesia-church-tyoxaja
+6. hospital-hospital-ja kununib'äl
+7. banco-bank-pwaqb'äl ja
+8. salon de belleza-beauty salon-suk'b'äl ib'
+9. restaurante-restaurant-wa'b'äl
+10. mercado-market-k'ayib'al
+
+
+======
+======
+
+
+UNIDAD 4
+naturaleza
+1. planeta-planet-kajulew
+2. agua-water-ja'
+3. tierra-ground-ulew
+4. fuego-fire-q'aq'
+5. aire-air-kaqiq'
+6. arcoiris-rainbow-xkuq'ab, raxkyaq'ab'
+7. rio-river-nimaja' 
+8. bosque-forest-k'ache'laj
+9. animal-animal-chikop, awaj
+10. flor-flower-kotz'ij
+
+Ciudad
+1. edificio-building-q'a'mja
+2. avenida-avenue-raqän b'e
+3. calle-street-nimab'e
+4. puente-bridge-q'a'm
+5. estadio-stadium-kikbäl
+6. parque-park-uxlanib'äl
+7. señal de transito-traffic signals-k'utb'e
+8. semaforo-semaphore-k'utq'axb'äl
+9. carretera-road-nim-b'e
+10. cine-cinema-k'utb'äl wäch
+
+Pofesiones
+1. albañil-builder-ajyakal ja
+2. juez-ljudge-q'atöl tzij
+3. policia-police-chajinel
+4. doctor-doctor-ajkun
+5. electricista-electricist-ajk'amq'aq'
+6. enfermera-nurse-ajyab'
+7. cocinero-chef-ajb'anal wa
+8. musico-musician-q'ojomnel
+9. programador-developer-nuk'b'anel
+10. ingeniero-engineer-ajpuqno'jibäl
+
+Tecnologia
+1. tecnologia-tecnologhy-no'jb'anem
+2. red-network-k'at
+3. computadora-computer-kematz'ib'
+4. telefono-phone-ch'awib'äl
+5. monitor-display-iltz'ib'
+6. teclado-keyboard-taktakb'äl
+7. programa-software-nuk'wäch
+8. antivirus-xib'ab'äl k'ajnak'
+9. innalambrico-wiriless-makolob'
+10. nube-cloud-sutz'

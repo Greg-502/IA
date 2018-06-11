@@ -1,0 +1,109 @@
+
+*{
+  font-family: 'Titan One', cursive;
+  cursor: url(../image/cursor.png),pointer;
+}
+
+body {
+  /* Location of the image */
+  background-image: url(../image/background.jpeg);
+  
+  /* Image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Image doesn't repeat */
+  background-repeat: no-repeat;
+  
+  /* Makes the image fixed in the viewport so that it doesn't move when 
+     the content height is greater than the image height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based on its container's size */
+  background-size: cover;
+  
+  /* Pick a solid background color that will be displayed while the background image is loading */
+  background-color:#464646;
+  
+  /* SHORTHAND CSS NOTATION
+   * background: url(background-photo.jpg) center center cover no-repeat fixed;
+   */
+}
+
+button:hover{
+  cursor: url(../image/cursor.png),pointer;
+}
+
+input[type=text]:active, button:active, a:active, h1:active, img:active,
+input[type=checkbox]:active, div:active, table:active, table tbody tr td:active, 
+table thead tr th:active, table tr td h2:active{
+  cursor: url(../image/cursor-pointer.png),pointer;
+}
+
+.IconoBotones{
+  -webkit-transform: scale(1);
+  -webkit-transition: 300ms;
+  float:left;
+  text-decoration: none;
+  color:black;
+  font-size: 1em;
+}
+
+.IconoBotones:hover{
+  -webkit-transform: scale(1.5);
+  -webkit-transition: 300ms;
+  color: black;
+  text-decoration: none;
+}
+
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+  body {
+    /* The file size of this background image is 93% smaller
+     * to improve page load speed on mobile internet connections */
+    background-image: url(../image/background.jpeg);
+  }
+}
+
+#encabezado{
+  background-color: orange;
+  padding: 30px;
+  border-radius: 100px;
+}
+
+img{
+  margin-top: 40px;
+}
+
+.seleccionUnidades{
+  margin-top: -480px;
+  float: left;
+}
+
+#uno{
+  margin-top: 30px;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.opcionesFormato{
+  padding: 10px 11px;
+  border-radius: 100px;
+  color: white;
+  border-style: solid;
+  border-width: 5px;
+  text-decoration: none;
+  border-color: white;
+  font-size: 30px;
+}
+
+#rank{
+  background-color: rgb(56,57,197);
+}
+
+#out{
+  background-color: rgb(227,47,65);
+}
+
+#setting{
+  background-color: rgb(47,136,187);
+}
